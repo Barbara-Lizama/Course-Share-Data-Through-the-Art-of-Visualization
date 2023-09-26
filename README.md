@@ -1,1 +1,1 @@
-# Share-Data-Through-the-Art-of-Visualization
+# Course-Share-Data-Through-the-Art-of-Visualization
